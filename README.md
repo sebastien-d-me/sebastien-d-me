@@ -29,4 +29,3 @@
 **Outils**
 - [Coding Logos Skills - Get some customs logos for your Coding Skills !](https://github.com/sebastien-d-me/Coding-Logos-Skills)
 - [Nice Looking Select - Generate nice looking select without framework and/or library !](https://github.com/sebastien-d-me/Nice-Looking-Select)
-- [Web CMD Project Starter - A small tool that allows you to create the architecture of your web projects in a very quick way.](https://github.com/sebastien-d-me/Web-CMD-Project-Starter)
