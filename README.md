@@ -19,8 +19,8 @@
 - [x] [Billed - Débuggez et testez un SaaS RH](https://github.com/sebastien-d-me/SebastienDelahaye_9_05012022 "Billed")
 - [x] [Kasa - Développez une application Web avec React et React Router](https://github.com/sebastien-d-me/SebastienDelahaye_11_22032022 "Kasa")
 - [x] [SportSee - Développez un tableau de bord d'analytics avec React](https://github.com/sebastien-d-me/SebastienDelahaye_12_19042022 "SportSee")
-- [ ] [Argent Bank - Utilisez une API pour un compte utilisateur bancaire avec React](https://github.com/sebastien-d-me/SebastienDelahaye_13_31052022 "Argent Bank")
-- [ ] Wealth Health - Faites passer une librairie jQuery vers React
+- [x] [Argent Bank - Utilisez une API pour un compte utilisateur bancaire avec React](https://github.com/sebastien-d-me/SebastienDelahaye_13_31052022 "Argent Bank")
+- [ ] [Wealth Health - Faites passer une librairie jQuery vers React](https://github.com/sebastien-d-me/SebastienDelahaye_14_29062022 "HRnet")
 
 **Frontend Mentor :**
 - [Interactive rating component](https://www.frontendmentor.io/solutions/frontend-mentor-interactive-rating-component-vanilla-BJfY0cnmq)
